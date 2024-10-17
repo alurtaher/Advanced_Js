@@ -62,6 +62,18 @@
 
 // console.log(b());
 
-a =10;
+// a =10;
 
-console.log(a)
+// console.log(a)
+
+//How to Iterate through the Objects
+
+// let obj ={
+//     name:"Taher Basha",
+//     phoneNumber : 8499089094,
+//     Address : "1/74,Bharpet,Adoni"
+// }
+
+// Object.keys(obj).forEach((val)=>{
+//     console.log(val,obj[val])
+// })
